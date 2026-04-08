@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/sadiarahmansmrity0/sadiarahmansmrity0/blob/main/banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sadia Rahman</h1>
 <h3 align="center">- Enthusiastic web developer dedicated to turning ideas into interactive digital experiences.</h3>
 
