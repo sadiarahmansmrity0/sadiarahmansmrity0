@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> I'm **Sadia Rahman**
+# 👋 I'm **Sadia Rahman**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Creative+Designer;Problem+Solver;CS+Undergraduate)](https://git.io/typing-svg)
 
