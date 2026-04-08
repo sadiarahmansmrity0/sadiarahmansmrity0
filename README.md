@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sadiarahmansmrity0/sadiarahmansmrity0/blob/main/github.png" alt="Banner" />
+ <img width="1536" height="1024" alt="github" src="https://github.com/user-attachments/assets/58032e5d-f5b7-4a1f-87a6-0a769f7b23e1" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sadia Rahman</h1>
