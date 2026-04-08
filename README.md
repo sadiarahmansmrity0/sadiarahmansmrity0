@@ -1,6 +1,7 @@
 <p align="center">
- <img width="1536" height="1024" alt="github" src="https://github.com/user-attachments/assets/58032e5d-f5b7-4a1f-87a6-0a769f7b23e1" />
+<img width="1382" height="568" alt="github" src="https://github.com/user-attachments/assets/fccf531f-0ff7-452c-90d0-ee46b0648cba" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Sadia Rahman</h1>
 <h3 align="center">- Enthusiastic web developer dedicated to turning ideas into interactive digital experiences.</h3>
