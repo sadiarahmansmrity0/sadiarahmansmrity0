@@ -3,7 +3,14 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Sadia Rahman</h1>
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> I'm **Sadia Rahman**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Creative+Designer;Problem+Solver;CS+Undergraduate)](https://git.io/typing-svg)
+
+---
+</div>
 <h3 align="center">- Enthusiastic web developer dedicated to turning ideas into interactive digital experiences.</h3>
 ---
 
@@ -28,16 +35,17 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiarahmansmrity0&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiarahmansmrity0&show_icons=true&theme=tokyonight&count_private=true" alt="Sadia's GitHub Stats" />
+  
+  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiarahmansmrity0&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiarahmansmrity0&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiarahmansmrity0&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 <!--
 **sadiarahmansm<img width="15<img width="1536" height="1024" alt="github" src="https://github.com/user-attachments/assets/3a358c75-b6e1-45bd-a132-7708f20b954b" />
